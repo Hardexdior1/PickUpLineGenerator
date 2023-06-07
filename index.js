@@ -1,6 +1,6 @@
 
 let name=document.querySelector('.name')
-name.textContent="coded by <>'oluwadamilare </>'"
+name.textContent="coded by <> oluwadamilare </>"
 
 let jokesDiv = document.querySelector(".jokesDiv");
 let generate = document.querySelector(".generate");
